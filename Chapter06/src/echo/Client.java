@@ -56,7 +56,7 @@ public class Client {
 			System.out.println("server: [" + reMsg + "]");
 		}
 		//키보드로 입력 받기
-		String msg =  sc.nextLine();	//입력 대기
+		String msg = sc.nextLine();	//입력 대기
 		
 		System.out.println("====================");
 		System.out.println("<End Client>");
