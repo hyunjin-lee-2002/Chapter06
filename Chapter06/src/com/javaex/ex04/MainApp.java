@@ -1,6 +1,6 @@
 package com.javaex.ex04;
 
-public class Main {
+public class MainApp {
 	public static void main (String[] args) {
 		
 		// 숫자 출장
